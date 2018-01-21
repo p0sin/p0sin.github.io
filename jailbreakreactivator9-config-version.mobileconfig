@@ -32,13 +32,13 @@
 		</dict>
 	</array>
 	<key>PayloadDescription</key>
-	<string>Re-Active Offline Pangu Jailbreak iOS 9.3.x</string>
+	<string>Reactivate the iOS 9.2-9.3.3 jailbreak state. ARM64-bit support only.</string>
 	<key>PayloadDisplayName</key>
 	<string>JailbreakReactivator9</string>
 	<key>PayloadIdentifier</key>
 	<string>com.chasefromm.jbreactivator9</string>
 	<key>PayloadOrganization</key>
-	<string>julioverne</string>
+	<string>chasefromm17</string>
 	<key>PayloadRemovalDisallowed</key>
 	<false/>
 	<key>PayloadType</key>
