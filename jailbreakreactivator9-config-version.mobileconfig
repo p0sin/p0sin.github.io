@@ -16,7 +16,7 @@
 			<key>PayloadDescription</key>
 			<string>Reactivate the iOS 9.2-9.3.3 jailbreak state. ARM64-bit support only.</string>
 			<key>PayloadDisplayName</key>
-			<string>Web Clip</string>
+			<string>JailbreakReactivator9</string>
 			<key>PayloadIdentifier</key>
 			<string>com.apple.webClip.managed.46287D65-8049-441D-8C5A-67216D0B3BAE</string>
 			<key>PayloadType</key>
@@ -34,9 +34,9 @@
 	<key>PayloadDescription</key>
 	<string>Re-Active Offline Pangu Jailbreak iOS 9.3.x</string>
 	<key>PayloadDisplayName</key>
-	<string>Jailbreak Me</string>
+	<string>JailbreakReactivator9</string>
 	<key>PayloadIdentifier</key>
-	<string>com.julioverne.jb933</string>
+	<string>com.chasefromm.jbreactivator9</string>
 	<key>PayloadOrganization</key>
 	<string>julioverne</string>
 	<key>PayloadRemovalDisallowed</key>
