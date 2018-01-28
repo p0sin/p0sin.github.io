@@ -12,11 +12,11 @@
 			<key>IsRemovable</key>
 			<false/>
 			<key>Label</key>
-			<string>JailbreakMe</string>
+			<string>JailbreakReactivator9</string>
 			<key>PayloadDescription</key>
-			<string>Configures settings for a Web Clip</string>
+			<string>BETA VERSION: This profile lets you reactivate the iOS 9.2-9.3.3 jailbreak state that you used with the Pangu jailbreak. Currently this only supports ARM64-bit devices capable of running the Pangu jailbreak.</string>
 			<key>PayloadDisplayName</key>
-			<string>Web Clip</string>
+			<string>JailbreakReactivator9</string>
 			<key>PayloadIdentifier</key>
 			<string>com.apple.webClip.managed.46287D65-8049-441D-8C5A-67216D0B3BAE</string>
 			<key>PayloadType</key>
@@ -32,13 +32,13 @@
 		</dict>
 	</array>
 	<key>PayloadDescription</key>
-	<string>Re-Active Offline Pangu Jailbreak iOS 9.3.x</string>
+	<string>BETA VERSION: This profile lets you reactivate the iOS 9.2-9.3.3 jailbreak state that you used with the Pangu jailbreak. Currently this only supports ARM64-bit devices capable of running the Pangu jailbreak.</string>
 	<key>PayloadDisplayName</key>
-	<string>Jailbreak Me</string>
+	<string>JailbreakReactivator9</string>
 	<key>PayloadIdentifier</key>
-	<string>com.julioverne.jb933</string>
+	<string>com.chasefromm.jailbreakreactivator9</string>
 	<key>PayloadOrganization</key>
-	<string>julioverne</string>
+	<string>chasefromm</string>
 	<key>PayloadRemovalDisallowed</key>
 	<false/>
 	<key>PayloadType</key>
