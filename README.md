@@ -1,1 +1,1 @@
-My website, which is super incomplete :/
+My website, which is <b>super</b> incomplete. It has no CSS engine, no JavaScript, no HTML5, none of the fancy stuff you find on most Cydia repositories or any other tweka developers' webistes that contain a bio about the developer in question... Hopefully this gets fixed soon... :/
